@@ -2,4 +2,5 @@
 ### Topics Covered:
 
 1. Linux commands<br>
-2. Git - working
+2. SDLC
+3. Git - working
